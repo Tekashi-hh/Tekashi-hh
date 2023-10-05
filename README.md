@@ -5,7 +5,7 @@
 <h3 align="left">
   I'm a developer (no way)
 
-  I respond faster on <a href='https://discord.gg/vPetSWYr'>Discord</a>
+  I respond faster on <a href='https://discord.com/channels/@me/1149724771735584839'>Discord</a>
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
