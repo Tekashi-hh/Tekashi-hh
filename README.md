@@ -19,3 +19,6 @@
 ![Tekashi-hh](https://camo.githubusercontent.com/886770137ff98a5a6fdce07770fdad10b4a3a31ab4de1b7c7d1af553e611a3dd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d666163652d68682673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374)
 
 --- END RANDOM STATS NO ONE READS ---
+if you like what i do, maybe consider buying me a coffee/tea 
+
+<a href="https://www.buymeacoffee.com/joshdaniel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
