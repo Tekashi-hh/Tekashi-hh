@@ -22,4 +22,4 @@
 
 # Donation Button
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=NGTYXT5NDSEU2)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=82BX9QEQ7ZPHN)
